@@ -1,3 +1,3 @@
-#Codsoft Internship_Artificial_Intelligence
+# Codsoft Internship - Artificial Intelligence 
 
 ## Name : B.B. Praneeth
