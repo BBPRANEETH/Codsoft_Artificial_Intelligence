@@ -36,7 +36,4 @@ Input Handling: Implement logic to handle user moves and update the game board a
 5. Gameplay Loop
 Turn Management: Implement a loop to manage turns between the human player and the AI.
 
-6.Game Over Handling:
-Once the game ends (either by a win, loss, or draw), display the result and allow the user to start a new game if desired
-
-7. Testing and Refinement : Test your AI against different scenarios, including winning, losing, and drawing games, to ensure it performs correctly.Refine your AI’s strategy and code based on testing results and performance observations.
+6. Testing and Refinement : Test your AI against different scenarios, including winning, losing, and drawing games, to ensure it performs correctly.Refine your AI’s strategy and code based on testing results and performance observations.
