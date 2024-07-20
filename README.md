@@ -48,3 +48,6 @@ Turn Management: Implement a loop to manage turns between the human player and t
 3. AI Move : The AI calculates its move using the Minimax algorithm and places O in the optimal square.
 
 4. Game Progression: The game continues with alternating moves until a win, loss, or draw condition is met.
+
+
+# Task 3: Recommendation System
