@@ -22,9 +22,7 @@ It's important to note that rule-based chatbots have limitations in handling com
 Developing a TIC-TAC-TOE AI involves creating a program that can play the game intelligently against a human opponent. Here’s a step-by-step outline to approach this task:
 
 1. Game Representation
-Board Representation: Decide how to represent the TIC-TAC-TOE board in your programming language. Common choices include using a 3x3 matrix or a flat array of 9 elements.
-
-Player Representation: Define constants or variables to represent the players (e.g., X for the human player and O for the AI).
+Board Representation: Decide how to represent the TIC-TAC-TOE board in your programming language. Common choices include using a 3x3 matrix or a flat array of 9 elements.Player Representation: Define constants or variables to represent the players (e.g., X for the human player and O for the AI).
 
 2. Game Logic
 Winning Conditions: Implement logic to check for winning conditions after each move (three in a row horizontally, vertically, or diagonally).
