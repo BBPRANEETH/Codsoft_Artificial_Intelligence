@@ -1,6 +1,6 @@
 # Codsoft Internship - Artificial Intelligence 
 # Task 1: Chatbot with Rule-Based Responses
- A chatbot with rule-based responses operates on a set of predefined rules or patterns to generate responses based on user input. 
+ A chatbot with rule-based responses operates on a set of predefined rules or patterns to generate responses based on user input.It has several features andd functionalities that enhance it's performance.These rules are the basis for the types of problems the chatbot is familiar with and can deliver solutions.Here are some key aspects of chatbot with rule based responses:
  
 1.Designing Responses: Create a set of rules or patterns that the chatbot will recognize and respond to. These rules could cover common greetings, questions about the internship, and other related topics.
 
