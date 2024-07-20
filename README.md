@@ -29,7 +29,6 @@ Player Representation: Define constants or variables to represent the players (e
 2. Game Logic
 Winning Conditions: Implement logic to check for winning conditions after each move (three in a row horizontally, vertically, or diagonally).
 
-Draw Condition: Implement logic to check if the game ends in a draw (all squares filled without a winner).
 
 3. AI Strategy
 Minimax Algorithm: Implement the Minimax algorithm, a recursive algorithm used in decision-making and game theory. It helps the AI player to make optimal moves assuming the opponent also plays optimally.
