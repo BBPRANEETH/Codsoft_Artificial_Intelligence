@@ -15,6 +15,7 @@
 6.Response Generation: Once a matching pattern is identified, the chatbot selects or generates a response associated with that pattern.
 
 7.Fallback Mechanism: In case the input doesn’t match any predefined patterns, a fallback mechanism can be implemented to handle unexpected inputs, such as a default response like "I'm sorry, I didn't understand that.
+
 It's important to note that rule-based chatbots have limitations in handling complex or unpredictable conversations. They rely on predefined rules and may struggle with understanding ambiguous queries or nuanced language. However, they are often suitable for scenarios with well-defined use cases and a limited range of expected user inputs
 
 # Task 2: Tic-Tac-Toe AI
