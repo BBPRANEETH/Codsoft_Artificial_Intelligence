@@ -27,7 +27,6 @@ Board Representation: Decide how to represent the TIC-TAC-TOE board in your prog
 2. Game Logic
 Winning Conditions: Implement logic to check for winning conditions after each move (three in a row horizontally, vertically, or diagonally).
 
-
 3. AI Strategy
 Minimax Algorithm: Implement the Minimax algorithm, a recursive algorithm used in decision-making and game theory. It helps the AI player to make optimal moves assuming the opponent also plays optimally.Evaluation Function: Define an evaluation function that assigns scores to game states (board positions). This function helps Minimax to determine the best move based on the current state of the board.Depth Limitation: Depending on the complexity of your AI, consider implementing a depth limitation in Minimax to manage computational resources.
 
@@ -37,4 +36,6 @@ Input Handling: Implement logic to handle user moves and update the game board a
 5. Gameplay Loop
 Turn Management: Implement a loop to manage turns between the human player and the AI.
 
-6. Testing and Refinement : Test your AI against different scenarios, including winning, losing, and drawing games, to ensure it performs correctly.Refine your AI’s strategy and code based on testing results and performance observations.
+6.Game Over Handling: Once the game ends (either by a win, loss, or draw), display the result and allow the user to start a new game if desired
+
+7. Testing and Refinement : Test your AI against different scenarios, including winning, losing, and drawing games, to ensure it performs correctly.Refine your AI’s strategy and code based on testing results and performance observations.
