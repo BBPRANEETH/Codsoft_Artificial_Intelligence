@@ -19,3 +19,38 @@
 It's important to note that rule-based chatbots have limitations in handling complex or unpredictable conversations. They rely on predefined rules and may struggle with understanding ambiguous queries or nuanced language. However, they are often suitable for scenarios with well-defined use cases and a limited range of expected user inputs
 
 # Task 2: Tic-Tac-Toe AI
+Developing a TIC-TAC-TOE AI involves creating a program that can play the game intelligently against a human opponent. Here’s a step-by-step outline to approach this task:
+
+1. Game Representation
+Board Representation: Decide how to represent the TIC-TAC-TOE board in your programming language. Common choices include using a 3x3 matrix or a flat array of 9 elements.
+
+Player Representation: Define constants or variables to represent the players (e.g., X for the human player and O for the AI).
+
+2. Game Logic
+Winning Conditions: Implement logic to check for winning conditions after each move (three in a row horizontally, vertically, or diagonally).
+
+Draw Condition: Implement logic to check if the game ends in a draw (all squares filled without a winner).
+
+3. AI Strategy
+Minimax Algorithm: Implement the Minimax algorithm, a recursive algorithm used in decision-making and game theory. It helps the AI player to make optimal moves assuming the opponent also plays optimally.
+
+Evaluation Function: Define an evaluation function that assigns scores to game states (board positions). This function helps Minimax to determine the best move based on the current state of the board.
+
+Depth Limitation: Depending on the complexity of your AI, consider implementing a depth limitation in Minimax to manage computational resources.
+
+Alpha-Beta Pruning: Optionally, implement Alpha-Beta pruning to optimize the Minimax algorithm by reducing the number of nodes evaluated in the search tree.
+
+4. User Interface
+Display: Create a simple interface to display the TIC-TAC-TOE board and accept user input.
+
+Input Handling: Implement logic to handle user moves and update the game board accordingly.
+
+5. Gameplay Loop
+Turn Management: Implement a loop to manage turns between the human player and the AI.
+
+Game Over Handling: Once the game ends (either by a win, loss, or draw), display the result and allow the user to start a new game if desired.
+
+6. Testing and Refinement
+Testing: Test your AI against different scenarios, including winning, losing, and drawing games, to ensure it performs correctly.
+
+Refinement: Refine your AI’s strategy and code based on testing results and performance observations.
