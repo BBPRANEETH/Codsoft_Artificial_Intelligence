@@ -40,3 +40,11 @@ Turn Management: Implement a loop to manage turns between the human player and t
 
 7. Alpha-beta Pruning: To optimize the search process, the AI can use alpha-beta pruning, which eliminates the need to explore certain parts of the game tree that are known to be irrelevant. This reduces the number of calculations required to find the best move.
 
+# Example Scenario
+1. Initial Setup : The game begins with the empty board.
+
+2. Player move : The human player makes aa move(places X).
+
+3. AI Move : The AI calculates its move using the Minimax algorithm and places O in the optimal square.
+
+4. Game Progression: The game continues with alternating moves until a win, loss, or draw condition is met.
